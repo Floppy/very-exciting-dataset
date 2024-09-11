@@ -1,0 +1,22 @@
+{
+	"@id": "AAWSAP",
+	"@context": "https://schema.org",
+	"@type": "Organization",
+	"name": "AAWSAP",
+	"member": [
+		{
+			"@type": "Role",
+			"member": {
+				"url": "/person/james-lacatski"
+			},
+			"roleName": "Director"
+		},
+		{
+			"@type": "Role",
+			"member": {
+				"url": "/person/hal-puthoff"
+			},
+			"roleName": "Chief Scientist"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"@id": "AATIP1",
+	"@context": "https://schema.org",
+	"@type": "Organization",
+	"name": "AATIP v2",
+	"member": [
+		{
+			"@type": "Role",
+			"member": {
+				"url": "/person/luis-elizondo"
+			},
+			"startDate": "2012",
+			"endDate": "2017",
+			"roleName": "Director"
+		}
+	]
+}
