@@ -1,0 +1,24 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Book",
+	"name": "Imminent",
+	"alternativeHeadline": "Inside the Pentagon's Hunt for UFOs",
+	"isbn": "9781789466041",
+	"author": {
+		"url": "/person/luis-elizondo"
+	},
+	"about": [
+		{
+			"url": "/person/luis-elizondo"
+		},
+		{
+			"url": "/organization/aatip-v1"
+		},
+		{
+			"url": "/organization/aatip-v2"
+		},
+		{
+			"url": "/organization/aawsap"
+		}
+	]
+}
