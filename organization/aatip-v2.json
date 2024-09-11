@@ -1,5 +1,4 @@
 {
-	"@id": "AATIP1",
 	"@context": "https://schema.org",
 	"@type": "Organization",
 	"name": "AATIP v2",
@@ -7,7 +6,7 @@
 		{
 			"@type": "Role",
 			"member": {
-				"url": "/person/luis-elizondo"
+				"@id": "https://floppy.github.io/very-exciting-dataset/person/luis-elizondo"
 			},
 			"startDate": "2012",
 			"endDate": "2017",

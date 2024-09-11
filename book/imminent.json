@@ -5,20 +5,20 @@
 	"alternativeHeadline": "Inside the Pentagon's Hunt for UFOs",
 	"isbn": "9781789466041",
 	"author": {
-		"url": "/person/luis-elizondo"
+		"@id": "https://floppy.github.io/very-exciting-dataset/person/luis-elizondo"
 	},
 	"about": [
 		{
-			"url": "/person/luis-elizondo"
+			"@id": "https://floppy.github.io/very-exciting-dataset/person/luis-elizondo"
 		},
 		{
-			"url": "/organization/aatip-v1"
+			"@id": "https://floppy.github.io/very-exciting-dataset/organization/aatip-v1"
 		},
 		{
-			"url": "/organization/aatip-v2"
+			"@id": "https://floppy.github.io/very-exciting-dataset/organization/aatip-v2"
 		},
 		{
-			"url": "/organization/aawsap"
+			"@id": "https://floppy.github.io/very-exciting-dataset/organization/aawsap"
 		}
 	]
 }

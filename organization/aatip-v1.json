@@ -1,16 +1,15 @@
 {
-	"@id": "AATIP1",
 	"@context": "https://schema.org",
 	"@type": "Project",
 	"name": "AATIP v1",
 	"parentOrganization": {
-		"@id": "AAWSAP"
+		"@id": "https://floppy.github.io/very-exciting-dataset/organization/aawsap"
 	},
 	"member": [
 		{
 			"@type": "Role",
 			"member": {
-				"url": "/person/luis-elizondo"
+				"@id": "https://floppy.github.io/very-exciting-dataset/person/luis-elizondo"
 			},
 			"startDate": "2007",
 			"endDate": "2012",
@@ -19,7 +18,7 @@
 		{
 			"@type": "Role",
 			"member": {
-				"url": "/person/jay-stratton"
+				"@id": "https://floppy.github.io/very-exciting-dataset/person/jay-stratton"
 			},
 			"roleName": "Something"
 		}

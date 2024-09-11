@@ -4,6 +4,6 @@
 	"name": "GOFAST",
 	"dateCreated": "2015",
 	"producer": {
-		"url": "/person/luis-elizondo"
+		"@id": "https://floppy.github.io/very-exciting-dataset/person/luis-elizondo"
 	}
 }

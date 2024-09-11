@@ -4,10 +4,10 @@
 	"name": "The Nimitz Encounter",
 	"performer": [
 		{
-			"url": "/person/chad-underwood"
+			"@id": "https://floppy.github.io/very-exciting-dataset/person/chad-underwood"
 		},
 		{
-			"url": "/person/david-fravor"
+			"@id": "https://floppy.github.io/very-exciting-dataset/person/david-fravor"
 		}
 	]
 }

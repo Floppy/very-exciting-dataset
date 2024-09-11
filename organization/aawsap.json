@@ -1,5 +1,4 @@
 {
-	"@id": "AAWSAP",
 	"@context": "https://schema.org",
 	"@type": "Organization",
 	"name": "AAWSAP",
@@ -7,14 +6,14 @@
 		{
 			"@type": "Role",
 			"member": {
-				"url": "/person/james-lacatski"
+				"@id": "https://floppy.github.io/very-exciting-dataset/person/james-lacatski"
 			},
 			"roleName": "Director"
 		},
 		{
 			"@type": "Role",
 			"member": {
-				"url": "/person/hal-puthoff"
+				"@id": "https://floppy.github.io/very-exciting-dataset/person/hal-puthoff"
 			},
 			"roleName": "Chief Scientist"
 		}
