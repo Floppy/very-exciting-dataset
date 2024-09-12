@@ -6,6 +6,12 @@
 		{
 			"@type": "Role",
 			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/doe"
+			}
+		},
+		{
+			"@type": "Role",
+			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/nga"
 			}
 		},
