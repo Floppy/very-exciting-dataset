@@ -19,6 +19,12 @@
 				"@id": "https://floppy.github.io/very-exciting-dataset/person/travis-taylor"
 			},
 			"roleName": "Chief Scientist"
+		},
+		{
+			"@type": "Role",
+			"member": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/person/david-grusch"
+			}
 		}
 	]
 }
