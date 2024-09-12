@@ -1,5 +1,13 @@
 {
 	"@context": "https://schema.org",
 	"@type": "Person",
-	"name": "David Fravor"
+	"name": "David Fravor",
+	"hasOccupation": [
+		{
+			"@type": "OrganizationRole",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/usn"
+			}
+		}
+	]
 }

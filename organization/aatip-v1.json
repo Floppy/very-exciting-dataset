@@ -4,23 +4,5 @@
 	"name": "AATIP v1",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/aawsap"
-	},
-	"member": [
-		{
-			"@type": "Role",
-			"member": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/person/luis-elizondo"
-			},
-			"startDate": "2007",
-			"endDate": "2012",
-			"roleName": "Counter Intelligence"
-		},
-		{
-			"@type": "Role",
-			"member": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/person/jay-stratton"
-			},
-			"roleName": "Something"
-		}
-	]
+	}
 }

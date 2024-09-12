@@ -4,21 +4,5 @@
 	"name": "AAWSAP",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/dia"
-	},
-	"member": [
-		{
-			"@type": "Role",
-			"member": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/person/james-lacatski"
-			},
-			"roleName": "Director"
-		},
-		{
-			"@type": "Role",
-			"member": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/person/hal-puthoff"
-			},
-			"roleName": "Chief Scientist"
-		}
-	]
+	}
 }

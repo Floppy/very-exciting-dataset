@@ -4,7 +4,5 @@
 	"name": "Office of Naval Intelligence",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/usn"
-	},
-	"member": [
-	]
+	}
 }

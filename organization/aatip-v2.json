@@ -1,16 +1,5 @@
 {
 	"@context": "https://schema.org",
 	"@type": "Organization",
-	"name": "AATIP v2",
-	"member": [
-		{
-			"@type": "Role",
-			"member": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/person/luis-elizondo"
-			},
-			"startDate": "2012",
-			"endDate": "2017",
-			"roleName": "Director"
-		}
-	]
+	"name": "AATIP v2"
 }

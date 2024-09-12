@@ -4,39 +4,5 @@
 	"name": "UAP Task Force",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/oni"
-	},
-	"member": [
-		{
-			"@type": "Role",
-			"member": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/person/jay-stratton"
-			},
-			"roleName": "Director"
-		},
-		{
-			"@type": "Role",
-			"member": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/person/travis-taylor"
-			},
-			"roleName": "Chief Scientist"
-		},
-		{
-			"@type": "Role",
-			"member": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/person/david-grusch"
-			}
-		},
-		{
-			"@type": "Role",
-			"member": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/person/sarah-gamm"
-			}
-		},
-		{
-			"@type": "Role",
-			"member": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/person/jon-kosloski"
-			}
-		}
-	]
+	}
 }

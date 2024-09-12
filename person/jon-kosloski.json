@@ -1,5 +1,36 @@
 {
 	"@context": "https://schema.org",
 	"@type": "Person",
-	"name": "Jon Kosloski"
+	"name": "Jon Kosloski",
+	"hasOccupation": [
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/uaptf"
+			}
+		},
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/nsa"
+			}
+		},
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aaro"
+			},
+			"roleName": "Director",
+			"startDate": "2024-08-26",
+			"citations": [
+				{
+					"@type": "CreativeWork",
+					"url": "https://www.defense.gov/News/Releases/Release/Article/3884318/department-of-defense-announces-the-new-director-all-domain-anomaly-resolution/",
+					"publisher": {
+						"@id": "https: //floppy.github.io/very-exciting-dataset/organization/dod"
+					}
+				}
+			]
+		}
+	]
 }

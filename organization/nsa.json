@@ -4,14 +4,5 @@
 	"name": "National Security Agency",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/dod"
-	},
-	"member": [
-		{
-			"@type": "Role",
-			"member": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/person/jon-kosloski"
-			},
-			"roleName": "Director"
-		}
-	]
+	}
 }

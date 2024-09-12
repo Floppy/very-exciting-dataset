@@ -1,5 +1,16 @@
 {
 	"@context": "https://schema.org",
 	"@type": "Person",
-	"name": "Sean Kirkpatrick"
+	"name": "Sean Kirkpatrick",
+	"hasOccupation": [
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aaro"
+			},
+			"roleName": "Director",
+			"startDate": "2022-07-20",
+			"endDate": "2023-12-01"
+		}
+	]
 }

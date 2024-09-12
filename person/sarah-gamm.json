@@ -1,5 +1,19 @@
 {
 	"@context": "https://schema.org",
 	"@type": "Person",
-	"name": "Sarah Gamm"
+	"name": "Sarah Gamm",
+	"hasOccupation": [
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/nga"
+			}
+		},
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/uaptf"
+			}
+		}
+	]
 }

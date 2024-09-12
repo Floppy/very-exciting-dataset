@@ -1,5 +1,25 @@
 {
 	"@context": "https://schema.org",
 	"@type": "Person",
-	"name": "David Grusch"
+	"name": "David Grusch",
+	"hasOccupation": [
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/nro"
+			}
+		},
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/nga"
+			}
+		},
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/uaptf"
+			}
+		}
+	]
 }

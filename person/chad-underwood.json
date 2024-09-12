@@ -1,5 +1,13 @@
 {
 	"@context": "https://schema.org",
 	"@type": "Person",
-	"name": "Chad Underwood"
+	"name": "Chad Underwood",
+	"hasOccupation": [
+		{
+			"@type": "OrganizationRole",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/usn"
+			}
+		}
+	]
 }

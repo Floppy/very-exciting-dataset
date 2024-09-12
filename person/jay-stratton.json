@@ -1,5 +1,26 @@
 {
 	"@context": "https://schema.org",
 	"@type": "Person",
-	"name": "Jay Stratton"
+	"name": "Jay Stratton",
+	"hasOccupation": [
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aatip-v1"
+			}
+		},
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/uaptf"
+			},
+			"roleName": "Director"
+		},
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aaro"
+			}
+		}
+	]
 }

@@ -4,19 +4,5 @@
 	"name": "National Geospatial-Intelligence Agency",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/dod"
-	},
-	"member": [
-		{
-			"@type": "Role",
-			"member": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/person/david-grusch"
-			}
-		},
-		{
-			"@type": "Role",
-			"member": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/person/sarah-gamm"
-			}
-		}
-	]
+	}
 }

@@ -1,7 +1,5 @@
 {
 	"@context": "https://schema.org",
 	"@type": "Organization",
-	"name": "Department of Defense",
-	"member": [
-	]
+	"name": "Department of Defense"
 }
