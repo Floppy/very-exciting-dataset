@@ -2,6 +2,9 @@
 	"@context": "https://schema.org",
 	"@type": "Organization",
 	"name": "AAWSAP",
+	"parentOrganization": {
+		"@id": "https://floppy.github.io/very-exciting-dataset/organization/dia"
+	},
 	"member": [
 		{
 			"@type": "Role",
