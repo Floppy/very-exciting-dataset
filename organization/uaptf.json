@@ -1,0 +1,24 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Organization",
+	"name": "UAP Task Force",
+	"parentOrganization": {
+		"@id": "https://floppy.github.io/very-exciting-dataset/organization/oni"
+	},
+	"member": [
+		{
+			"@type": "Role",
+			"member": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/person/jay-stratton"
+			},
+			"roleName": "Director"
+		},
+		{
+			"@type": "Role",
+			"member": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/person/travis-taylor"
+			},
+			"roleName": "Chief Scientist"
+		}
+	]
+}
