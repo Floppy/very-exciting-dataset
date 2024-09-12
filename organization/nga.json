@@ -11,6 +11,12 @@
 			"member": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/person/david-grusch"
 			}
+		},
+		{
+			"@type": "Role",
+			"member": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/person/sarah-gamm"
+			}
 		}
 	]
 }
