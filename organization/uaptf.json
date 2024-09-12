@@ -31,6 +31,12 @@
 			"member": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/person/sarah-gamm"
 			}
+		},
+		{
+			"@type": "Role",
+			"member": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/person/jon-kosloski"
+			}
 		}
 	]
 }
