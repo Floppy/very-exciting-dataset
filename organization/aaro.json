@@ -1,0 +1,36 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Organization",
+	"name": "All-Domain Anomaly Resolution Office",
+	"parentOrganization": {
+		"@id": "https://floppy.github.io/very-exciting-dataset/organization/osd"
+	},
+	"member": [
+		{
+			"@type": "Role",
+			"member": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/person/sean-kirkpatrick"
+			},
+			"roleName": "Director",
+			"startDate": "2022-07-20",
+			"endDate": "2023-12-01"
+		},
+		{
+			"@type": "Role",
+			"member": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/person/jon-kosloski"
+			},
+			"roleName": "Director",
+			"startDate": "2024-08-26",
+			"citations": [
+				{
+					"@type": "CreativeWork",
+					"url": "https://www.defense.gov/News/Releases/Release/Article/3884318/department-of-defense-announces-the-new-director-all-domain-anomaly-resolution/",
+					"publisher": {
+						"@id": "https: //floppy.github.io/very-exciting-dataset/organization/dod"
+					}
+				}
+			]
+		}
+	]
+}
