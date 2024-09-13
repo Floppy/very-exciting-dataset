@@ -1,14 +1,13 @@
 {
 	"@context": "https://schema.org",
 	"@type": "Person",
-	"name": "Hal Puthoff",
+	"name": "Eric Davis",
 	"hasOccupation": [
 		{
 			"@type": "Role",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aawsap"
-			},
-			"roleName": "Chief Scientist"
+			}
 		},
 		{
 			"@type": "Role",

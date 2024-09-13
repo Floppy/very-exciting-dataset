@@ -12,6 +12,12 @@
 		{
 			"@type": "Role",
 			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aatip-v2"
+			}
+		},
+		{
+			"@type": "Role",
+			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/uaptf"
 			},
 			"roleName": "Director"
