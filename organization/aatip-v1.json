@@ -4,5 +4,7 @@
 	"name": "AATIP v1",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/aawsap"
-	}
+	},
+	"startDate": "2007",
+	"endDate": "2012"
 }

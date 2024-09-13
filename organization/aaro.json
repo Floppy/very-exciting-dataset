@@ -2,10 +2,12 @@
 	"@context": "https://schema.org",
 	"@type": "Organization",
 	"name": "All-Domain Anomaly Resolution Office",
+	"alternateName": "AARO",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/osd"
 	},
 	"sameAs": [
 		"https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office"
-	]
+	],
+	"startDate": "2022"
 }

@@ -1,8 +1,11 @@
 {
 	"@context": "https://schema.org",
-	"@type": "Organization",
-	"name": "AAWSAP",
+	"@type": "Project",
+	"name": "Advanced Aerospace Weapon System Applications Program",
+	"alternateName": "AAWSAP",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/dia"
-	}
+	},
+	"startDate": "2007",
+	"endDate": "2012"
 }
