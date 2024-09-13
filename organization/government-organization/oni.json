@@ -4,6 +4,6 @@
 	"name": "Office of Naval Intelligence",
 	"alternateName": "ONI",
 	"parentOrganization": {
-		"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationusn"
+		"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/usn"
 	}
 }

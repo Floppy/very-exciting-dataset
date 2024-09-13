@@ -18,14 +18,14 @@
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationuaptf"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/uaptf"
 			},
 			"roleName": "Director"
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationaaro"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/aaro"
 			}
 		}
 	]

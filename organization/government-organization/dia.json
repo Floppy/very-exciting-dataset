@@ -4,6 +4,6 @@
 	"name": "Defense Intelligence Agency",
 	"alternateName": "DIA",
 	"parentOrganization": {
-		"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationdod"
+		"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/dod"
 	}
 }

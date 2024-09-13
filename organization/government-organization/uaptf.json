@@ -4,7 +4,7 @@
 	"name": "UAP Task Force",
 	"alternateName": "UAPTF",
 	"parentOrganization": {
-		"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationoni"
+		"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/oni"
 	},
 	"foundingDate": "2020",
 	"dissolutionDate": "2021"

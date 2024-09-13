@@ -6,25 +6,25 @@
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationnro"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/nro"
 			}
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationnga"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/nga"
 			}
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationussf"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/ussf"
 			}
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationuaptf"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/uaptf"
 			}
 		},
 		{

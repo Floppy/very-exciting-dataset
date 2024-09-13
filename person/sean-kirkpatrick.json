@@ -6,7 +6,7 @@
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationaaro"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/aaro"
 			},
 			"roleName": "Director",
 			"startDate": "2022-07-20",

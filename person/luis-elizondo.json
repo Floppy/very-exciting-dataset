@@ -24,14 +24,14 @@
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationussf"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/ussf"
 			},
 			"roleName": "Contractor"
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationuaptf"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/uaptf"
 			},
 			"roleName": "Space Force Representative"
 		}

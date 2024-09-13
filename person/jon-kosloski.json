@@ -6,19 +6,19 @@
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationuaptf"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/uaptf"
 			}
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationnsa"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/nsa"
 			}
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationaaro"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/aaro"
 			},
 			"roleName": "Director",
 			"startDate": "2024-08-26",
@@ -27,7 +27,7 @@
 					"@type": "CreativeWork",
 					"url": "https://www.defense.gov/News/Releases/Release/Article/3884318/department-of-defense-announces-the-new-director-all-domain-anomaly-resolution/",
 					"publisher": {
-						"@id": "https: //floppy.github.io/very-exciting-dataset/organization/government-organizationdod"
+						"@id": "https: //floppy.github.io/very-exciting-dataset/organization/government-organization/dod"
 					}
 				}
 			]
