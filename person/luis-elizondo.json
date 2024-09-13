@@ -4,7 +4,7 @@
 	"name": "Luis Elizondo",
 	"hasOccupation": [
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aatip-v1"
 			},
@@ -13,7 +13,7 @@
 			"endDate": "2012"
 		},
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aatip-v2"
 			},
@@ -22,14 +22,14 @@
 			"endDate": "2017"
 		},
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/ussf"
 			},
 			"roleName": "Contractor"
 		},
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/uaptf"
 			},

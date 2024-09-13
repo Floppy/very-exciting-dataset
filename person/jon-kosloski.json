@@ -4,19 +4,19 @@
 	"name": "Jon Kosloski",
 	"hasOccupation": [
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/uaptf"
 			}
 		},
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/nsa"
 			}
 		},
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aaro"
 			},

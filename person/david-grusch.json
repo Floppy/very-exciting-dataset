@@ -4,31 +4,31 @@
 	"name": "David Grusch",
 	"hasOccupation": [
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/nro"
 			}
 		},
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/nga"
 			}
 		},
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/ussf"
 			}
 		},
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/uaptf"
 			}
 		},
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/sol-foundation"
 			},

@@ -4,14 +4,14 @@
 	"name": "Hal Puthoff",
 	"hasOccupation": [
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aawsap"
 			},
 			"roleName": "Chief Scientist"
 		},
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aatip-v2"
 			}

@@ -4,7 +4,7 @@
 	"name": "Garry Nolan",
 	"hasOccupation": [
 		{
-			"@type": "Role",
+			"@type": "OrganizationRole",
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/sol-foundation"
 			},
