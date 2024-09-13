@@ -6,7 +6,7 @@
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/sol-foundation"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/research-organization/sol-foundation"
 			},
 			"roleName": "Executive Director"
 		}

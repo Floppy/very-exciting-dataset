@@ -6,26 +6,26 @@
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aatip-v1"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/project/aatip-v1"
 			}
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aatip-v2"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/project/aatip-v2"
 			}
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/uaptf"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationuaptf"
 			},
 			"roleName": "Director"
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aaro"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationaaro"
 			}
 		}
 	]

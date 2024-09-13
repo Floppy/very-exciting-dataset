@@ -6,7 +6,7 @@
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/nids"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/research-organization/nids"
 			},
 			"roleName": "Deputy Administrator"
 		}

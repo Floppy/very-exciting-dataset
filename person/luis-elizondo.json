@@ -6,7 +6,7 @@
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aatip-v1"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/project/aatip-v1"
 			},
 			"roleName": "Counter Intelligence",
 			"startDate": "2007",
@@ -15,7 +15,7 @@
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aatip-v2"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/project/aatip-v2"
 			},
 			"roleName": "Director",
 			"startDate": "2012",
@@ -24,14 +24,14 @@
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/ussf"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationussf"
 			},
 			"roleName": "Contractor"
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/uaptf"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationuaptf"
 			},
 			"roleName": "Space Force Representative"
 		}

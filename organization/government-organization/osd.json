@@ -4,6 +4,6 @@
 	"name": "Office of the Secretary of Defense",
 	"alternateName": "OSD",
 	"parentOrganization": {
-		"@id": "https://floppy.github.io/very-exciting-dataset/organization/dod"
+		"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationdod"
 	}
 }

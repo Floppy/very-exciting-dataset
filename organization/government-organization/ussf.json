@@ -4,7 +4,7 @@
 	"name": "United States Space Force",
 	"alternateName": "USSF",
 	"parentOrganization": {
-		"@id": "https://floppy.github.io/very-exciting-dataset/organization/daf"
+		"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationdaf"
 	},
 	"foundingDate": "2019-12-20"
 }

@@ -3,7 +3,7 @@
 	"@type": "Project",
 	"name": "Advanced Aerospace Threat Identification Program",
 	"parentOrganization": {
-		"@id": "https://floppy.github.io/very-exciting-dataset/organization/aawsap"
+		"@id": "https://floppy.github.io/very-exciting-dataset/organization/project/aawsap"
 	},
 	"foundingDate": "2007",
 	"dissolutionDate": "2012"

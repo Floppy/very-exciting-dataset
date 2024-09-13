@@ -4,6 +4,6 @@
 	"name": "National Reconnaissance Office",
 	"alternateName": "NRO",
 	"parentOrganization": {
-		"@id": "https://floppy.github.io/very-exciting-dataset/organization/dod"
+		"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationdod"
 	}
 }

@@ -6,14 +6,14 @@
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aawsap"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/project/aawsap"
 			},
 			"roleName": "Chief Scientist"
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aatip-v2"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/project/aatip-v2"
 			}
 		}
 	],

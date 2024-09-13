@@ -6,31 +6,31 @@
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/nro"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationnro"
 			}
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/nga"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationnga"
 			}
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/ussf"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationussf"
 			}
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/uaptf"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationuaptf"
 			}
 		},
 		{
 			"@type": "OrganizationRole",
 			"memberOf": {
-				"@id": "https://floppy.github.io/very-exciting-dataset/organization/sol-foundation"
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/research-organization/sol-foundation"
 			},
 			"roleName": "Chief Operating Officer"
 		}

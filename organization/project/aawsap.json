@@ -5,10 +5,10 @@
 	"alternateName": "AAWSAP",
 	"parentOrganization": [
 		{
-			"@id": "https://floppy.github.io/very-exciting-dataset/organization/dia"
+			"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organizationdia"
 		},
 		{
-			"@id": "https://floppy.github.io/very-exciting-dataset/organization/baass"
+			"@id": "https://floppy.github.io/very-exciting-dataset/organization/research-organization/baass"
 		}
 	],
 	"foundingDate": "2007",
