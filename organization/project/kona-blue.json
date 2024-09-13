@@ -1,0 +1,22 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Project",
+	"name": "KONA BLUE Prospective Special Access Program",
+	"alternateName": "KONA BLUE",
+	"parentOrganization": [
+		{
+			"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/dia"
+		}
+	],
+	"foundingDate": "2011-07-11",
+	"dissolutionDate": "2011-12-11",
+	"citations": [
+		{
+			"@type": "CreativeWork",
+			"url": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf",
+			"publisher": {
+				"@id": "https: //floppy.github.io/very-exciting-dataset/organization/government-organization/aaro"
+			}
+		}
+	]
+}
