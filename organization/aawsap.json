@@ -3,9 +3,14 @@
 	"@type": "Project",
 	"name": "Advanced Aerospace Weapon System Applications Program",
 	"alternateName": "AAWSAP",
-	"parentOrganization": {
-		"@id": "https://floppy.github.io/very-exciting-dataset/organization/dia"
-	},
+	"parentOrganization": [
+		{
+			"@id": "https://floppy.github.io/very-exciting-dataset/organization/dia"
+		},
+		{
+			"@id": "https://floppy.github.io/very-exciting-dataset/organization/baass"
+		}
+	],
 	"startDate": "2007",
 	"endDate": "2012"
 }

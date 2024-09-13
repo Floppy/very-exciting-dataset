@@ -1,0 +1,14 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Person",
+	"name": "Colm Kelleher",
+	"hasOccupation": [
+		{
+			"@type": "OrganizationRole",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/nids"
+			},
+			"roleName": "Deputy Administrator"
+		}
+	]
+}
