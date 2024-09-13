@@ -1,11 +1,11 @@
 {
 	"@context": "https://schema.org",
-	"@type": "Organization",
+	"@type": "ResearchOrganization",
 	"name": "National Institute for Discovery Science",
 	"alternateName": ["NIDSci", "NIDS"],
 	"sameAs": [
 		"https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science"
 	],
-	"startDate": "1995",
-	"endDate": "2004"
+	"foundingDate": "1995",
+	"dissolutionDate": "2004"
 }

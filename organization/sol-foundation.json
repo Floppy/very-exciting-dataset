@@ -1,6 +1,6 @@
 {
 	"@context": "https://schema.org",
-	"@type": "Organization",
+	"@type": "ResearchOrganization",
 	"name": "The Sol Foundation",
 	"sameAs": [
 		"https://en.wikipedia.org/wiki/The_Sol_Foundation"

@@ -1,11 +1,11 @@
 {
 	"@context": "https://schema.org",
-	"@type": "Organization",
+	"@type": "GovernmentOrganization",
 	"name": "UAP Task Force",
 	"alternateName": "UAPTF",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/oni"
 	},
-	"startDate": "2020",
-	"endDate": "2021"
+	"foundingDate": "2020",
+	"dissolutionDate": "2021"
 }

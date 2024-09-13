@@ -1,6 +1,6 @@
 {
 	"@context": "https://schema.org",
-	"@type": "Organization",
+	"@type": "GovernmentOrganization",
 	"name": "Office of the Secretary of Defense",
 	"alternateName": "OSD",
 	"parentOrganization": {

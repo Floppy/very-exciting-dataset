@@ -1,6 +1,6 @@
 {
 	"@context": "https://schema.org",
-	"@type": "Organization",
+	"@type": "GovernmentOrganization",
 	"name": "All-Domain Anomaly Resolution Office",
 	"alternateName": "AARO",
 	"parentOrganization": {
@@ -9,5 +9,5 @@
 	"sameAs": [
 		"https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office"
 	],
-	"startDate": "2022"
+	"foundingDate": "2022"
 }

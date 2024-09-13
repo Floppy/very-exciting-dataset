@@ -1,6 +1,6 @@
 {
 	"@context": "https://schema.org",
-	"@type": "Organization",
+	"@type": "GovernmentOrganization",
 	"name": "Defense Intelligence Agency",
 	"alternateName": "DIA",
 	"parentOrganization": {

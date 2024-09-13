@@ -1,6 +1,6 @@
 {
 	"@context": "https://schema.org",
-	"@type": "Organization",
+	"@type": "GovernmentOrganization",
 	"name": "National Geospatial-Intelligence Agency",
 	"alternateName": "NGA",
 	"parentOrganization": {
