@@ -2,6 +2,7 @@
 	"@context": "https://schema.org",
 	"@type": "Organization",
 	"name": "Office of the Secretary of Defense",
+	"alternateName": "OSD",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/dod"
 	}

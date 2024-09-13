@@ -2,6 +2,7 @@
 	"@context": "https://schema.org",
 	"@type": "Organization",
 	"name": "National Security Agency",
+	"alternateName": "NSA",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/dod"
 	}

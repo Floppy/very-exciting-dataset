@@ -1,5 +1,6 @@
 {
 	"@context": "https://schema.org",
 	"@type": "Organization",
-	"name": "Department of Energy"
+	"name": "Department of Energy",
+	"alternateName": "DoE"
 }

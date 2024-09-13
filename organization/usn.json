@@ -2,6 +2,7 @@
 	"@context": "https://schema.org",
 	"@type": "Organization",
 	"name": "United States Navy",
+	"alternateName": "USN",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/don"
 	}
