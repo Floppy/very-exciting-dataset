@@ -20,6 +20,13 @@
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/uaptf"
 			}
+		},
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/sol-foundation"
+			},
+			"roleName": "Chief Operating Officer"
 		}
 	]
 }
