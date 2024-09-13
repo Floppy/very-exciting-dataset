@@ -1,0 +1,19 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Report",
+	"name": "Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP); Volume I",
+	"alternateName": [
+		"AARO Historical Review vol. 1"
+	],
+	"sameAs": [
+		"https://en.wikipedia.org/wiki/UFO_Report_(U.S._Intelligence)"
+	],
+	"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+	"author": {
+		"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/aaro"
+	},
+	"publisher": {
+		"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/aaro"
+	},
+	"publicationDate": "2024-03-08"
+}
