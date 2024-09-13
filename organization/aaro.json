@@ -4,5 +4,8 @@
 	"name": "All-Domain Anomaly Resolution Office",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/osd"
-	}
+	},
+	"sameAs": [
+		"https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office"
+	]
 }

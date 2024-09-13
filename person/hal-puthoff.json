@@ -16,5 +16,8 @@
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/aatip-v2"
 			}
 		}
+	],
+	"sameAs": [
+		"https://en.wikipedia.org/wiki/Harold_E._Puthoff"
 	]
 }
