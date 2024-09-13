@@ -1,15 +1,15 @@
 {
 	"@context": "https://schema.org",
 	"@type": "GovernmentOrganization",
-	"name": "All-Domain Anomaly Resolution Office",
-	"alternateName": "AARO",
+	"name": "Airborne Object Identification and Management Synchronization Group",
+	"alternateName": "AOIMSG",
 	"parentOrganization": {
 		"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/osd"
 	},
 	"sameAs": [
 		"https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office"
 	],
-	"foundingDate": "2022-07-15",
+	"foundingDate": "2021-11-23",
 	"citations": [
 		{
 			"@type": "CreativeWork",
@@ -19,5 +19,4 @@
 			}
 		}
 	]
-
 }
