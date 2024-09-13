@@ -1,0 +1,10 @@
+{
+	"@context": "https://schema.org",
+	"@type": "GovernmentOrganization",
+	"name": "United States Space Force",
+	"alternateName": "USSF",
+	"parentOrganization": {
+		"@id": "https://floppy.github.io/very-exciting-dataset/organization/daf"
+	},
+	"foundingDate": "2019-12-20"
+}

@@ -20,6 +20,20 @@
 			"roleName": "Director",
 			"startDate": "2012",
 			"endDate": "2017"
+		},
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/ussf"
+			},
+			"roleName": "Contractor"
+		},
+		{
+			"@type": "Role",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/uaptf"
+			},
+			"roleName": "Space Force Representative"
 		}
 	],
 	"sameAs": [

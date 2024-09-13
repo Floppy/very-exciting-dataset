@@ -18,6 +18,12 @@
 		{
 			"@type": "Role",
 			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/ussf"
+			}
+		},
+		{
+			"@type": "Role",
+			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/uaptf"
 			}
 		},
