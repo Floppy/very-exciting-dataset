@@ -1,0 +1,16 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Article",
+	"name": "Wilson-Davis Memo",
+	"alternateNames": [
+		"EWD Notes"
+	],
+	"url": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf",
+	"temporalCoverage": "2002-10-16T10:10:00-07/2002-10-16T11:20:00-07",
+	"interpretedAsClaim": [
+		{
+			"@type": "Claim",
+			"name": "Meeting between Eric W. Davis & Admiral Thomas Wilson"
+		}
+	]
+}
