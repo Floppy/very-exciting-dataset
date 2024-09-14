@@ -15,6 +15,13 @@
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/project/aatip-v2"
 			}
+		},
+		{
+			"@type": "OrganizationRole",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/corporation/ttsa"
+			},
+			"roleName": "Founder"
 		}
 	],
 	"sameAs": [

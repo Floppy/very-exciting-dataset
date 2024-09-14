@@ -1,0 +1,20 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Person",
+	"name": "Jim Semivan",
+	"hasOccupation": [
+		{
+			"@type": "OrganizationRole",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/cia"
+			}
+		},
+		{
+			"@type": "OrganizationRole",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/corporation/ttsa"
+			},
+			"roleName": "Founder"
+		}
+	]
+}

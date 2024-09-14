@@ -1,0 +1,9 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Corporation",
+	"name": "To The Stars Inc.",
+	"alternateName": "To The Stars Academy of Arts & Sciences Inc.",
+	"sameAs": [
+		"https://en.wikipedia.org/wiki/To_The_Stars_Inc."
+	]
+}
