@@ -18,10 +18,16 @@
 			"postalCode": "89119"
 		}
 	},
-	"interpretedAsClaim": [
-		{
-			"@type": "Claim",
-			"name": "Meeting between Eric W. Davis & Admiral Thomas Wilson"
-		}
-	]
+	"interpretedAsClaim": {
+		"@type": "Claim",
+		"name": "Meeting between Eric W. Davis & Admiral Thomas Wilson",
+		"performers": [
+			{
+				"@id": "https://floppy.github.io/very-exciting-dataset/person/eric-davis"
+			},
+			{
+				"@id": "https://floppy.github.io/very-exciting-dataset/person/thomas-wilson"
+			}
+		]
+	}
 }
