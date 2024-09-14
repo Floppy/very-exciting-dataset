@@ -7,6 +7,17 @@
 	],
 	"url": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf",
 	"temporalCoverage": "2002-10-16T10:10:00-07/2002-10-16T11:20:00-07",
+	"spatialCoverage": {
+		"@type": "Place",
+		"name": "EG & G Special Projects Inc.",
+		"address": {
+			"@type": "PostalAddress",
+			"streetAddress": "821 Grier Drive",
+			"addressLocality": "Las Vegas",
+			"addressRegion": "Nevada",
+			"postalCode": "89119"
+		}
+	},
 	"interpretedAsClaim": [
 		{
 			"@type": "Claim",
