@@ -1,0 +1,13 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Report",
+	"name": "Unidentified Aerial Phenomena in the UK Air Defence Region",
+	"alternateName": [
+		"Project Condign Report"
+	],
+	"sameAs": [
+		"https://en.wikipedia.org/wiki/UFO_Report_(U.S._Intelligence)"
+	],
+	"url": "http://webarchive.nationalarchives.gov.uk/20121110115327/http://www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm",
+	"publicationDate": "2006-05-15"
+}
