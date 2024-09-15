@@ -1,0 +1,11 @@
+{
+	"@context": "https://schema.org/",
+	"@type": "Legislation",
+	"name": "Unidentified Anomalous Phenomena Disclosure Act",
+	"alternateNames": "UAPDA",
+	"dateCreated": "2023",
+	"url": "https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf",
+	"sameAs": [
+		"https: //en.wikipedia.org/wiki/Unidentified_Anomalous_Phenomena_Disclosure_Act"
+	]
+}
