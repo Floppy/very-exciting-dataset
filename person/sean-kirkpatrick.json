@@ -1,7 +1,9 @@
 {
 	"@context": "https://schema.org",
 	"@type": "Person",
-	"name": "Sean Kirkpatrick",
+	"name": "Sean M. Kirkpatrick",
+	"honorificPrefix": "Dr",
+	"honorificSuffix": "PhD",
 	"hasOccupation": [
 		{
 			"@type": "OrganizationRole",
