@@ -1,0 +1,8 @@
+{
+	"@context": "https://schema.org",
+	"@type": "ResearchOrganization",
+	"name": "Earthtech International Inc.",
+	"alternateName": "The Institute for Advanced Studies at Austin",
+	"url": "https://earthtech.org/",
+	"foundingDate": "1985"
+}
