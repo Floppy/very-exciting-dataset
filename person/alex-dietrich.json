@@ -1,0 +1,16 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Person",
+	"name": "Alex Dietrich",
+	"hasOccupation": [
+		{
+			"@type": "OrganizationRole",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/usn"
+			}
+		}
+	],
+	"sameAs": [
+		"https://www.imdb.com/name/nm12578663/"
+	]
+}

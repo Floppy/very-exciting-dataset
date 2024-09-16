@@ -4,6 +4,9 @@
 	"name": "The Nimitz Encounter",
 	"performer": [
 		{
+			"@id": "https://floppy.github.io/very-exciting-dataset/person/alex-dietrich"
+		},
+		{
 			"@id": "https://floppy.github.io/very-exciting-dataset/person/chad-underwood"
 		},
 		{
