@@ -3,6 +3,13 @@
 	"@type": "Person",
 	"name": "Chris Mellon",
 	"hasOccupation": [
+		{
+			"@type": "OrganizationRole",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/corporation/asa"
+			},
+			"roleName": "Advisor"
+		}
 	],
 	"sameAs": [
 		"https: //en.wikipedia.org/wiki/Christopher_Mellon",

@@ -8,6 +8,13 @@
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/usn"
 			}
+		},
+		{
+			"@type": "OrganizationRole",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/corporation/asa"
+			},
+			"roleName": "Advisor"
 		}
 	],
 	"sameAs": [

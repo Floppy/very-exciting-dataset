@@ -1,7 +1,7 @@
 {
 	"@context": "https://schema.org",
 	"@type": "Person",
-	"name": "David Fravor",
+	"name": "Ryan Graves",
 	"hasOccupation": [
 		{
 			"@type": "OrganizationRole",
@@ -14,10 +14,10 @@
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/corporation/asa"
 			},
-			"roleName": "Advisor"
+			"roleName": "Founder"
 		}
 	],
 	"sameAs": [
-		"https://www.imdb.com/name/nm2999473/"
+		"https://www.imdb.com/name/nm10814215/"
 	]
 }

@@ -33,6 +33,13 @@
 			"memberOf": {
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/corporation/radiance"
 			}
+		},
+		{
+			"@type": "OrganizationRole",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/corporation/asa"
+			},
+			"roleName": "Advisor"
 		}
 	],
 	"sameAs": [
