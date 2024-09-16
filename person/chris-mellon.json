@@ -3,5 +3,9 @@
 	"@type": "Person",
 	"name": "Chris Mellon",
 	"hasOccupation": [
+	],
+	"sameAs": [
+		"https: //en.wikipedia.org/wiki/Christopher_Mellon",
+		"https://www.imdb.com/name/nm9544288/"
 	]
 }
