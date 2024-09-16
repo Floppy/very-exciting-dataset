@@ -1,0 +1,9 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Corporation",
+	"name": "Radiance Technologies",
+	"sameAs": [
+		"https://en.wikipedia.org/wiki/To_The_Stars_Inc."
+	],
+	"url": "https://www.radiancetech.com/"
+}

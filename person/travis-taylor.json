@@ -9,6 +9,12 @@
 				"@id": "https://floppy.github.io/very-exciting-dataset/organization/government-organization/uaptf"
 			},
 			"roleName": "Chief Scientist"
+		},
+		{
+			"@type": "EmployeeRole",
+			"memberOf": {
+				"@id": "https://floppy.github.io/very-exciting-dataset/organization/corporation/radiance"
+			}
 		}
 	],
 	"sameAs": [
